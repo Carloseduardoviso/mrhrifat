@@ -113,7 +113,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
 
-## **STREAK STATS**
+## **ESTATÍSTICAS DE RAIA**
 
 <p align = "center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham&hide_border=true">
